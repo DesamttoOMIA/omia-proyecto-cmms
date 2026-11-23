@@ -29,6 +29,17 @@ necesita la revisión del otro:
 Un PR no se mergea con conversaciones abiertas ni con cambios posteriores sin
 aprobar.
 
+## Tablero de trabajo
+
+El seguimiento se hace en [GitHub Projects](https://github.com/users/DesamttoOMIA/projects/1)
+con la estructura **Entrega → Épica → sub-issues**:
+
+- Épicas: `Épica N · Nombre`.
+- Tareas: `N.M Descripción`, enlazadas como sub-issues reales.
+- Vista `Control`: tabla agrupada por `Entrega`, con jerarquía activada.
+
+Detalle, campos y comandos en [docs/tablero-github.md](docs/tablero-github.md).
+
 ## Commits
 
 Se usa [Conventional Commits](https://www.conventionalcommits.org/):
