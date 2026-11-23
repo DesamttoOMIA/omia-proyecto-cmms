@@ -1,0 +1,53 @@
+# ===== OpenCode y agentes de IA (local, no se comparte) =====
+.opencode/
+.claude/
+.cursor/
+.windsurf/
+.continue/
+.aider*
+.codex/
+.gemini/
+.specstory/
+.history/
+.roo/
+.cline/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+
+# ===== Entorno Python =====
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# ===== Secretos y configuración local =====
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# ===== Logs y temporales =====
+*.log
+tmp/
+.cache/
+*.swp
+*~
+
+# ===== Sistema / IDE =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
