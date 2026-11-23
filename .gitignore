@@ -11,6 +11,7 @@
 .history/
 .roo/
 .cline/
+.playwright-mcp/
 AGENTS.md
 CLAUDE.md
 GEMINI.md
